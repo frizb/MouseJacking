@@ -2,7 +2,7 @@
 MouseJacking on Kali Linux with CrazyRadio PA.
 My exploration of MouseJacking.
 
-References:
+References:  
 https://www.mousejack.com/  
 https://github.com/insecurityofthings/jackit  
 https://www.bettercap.org/modules/hid/  
@@ -30,7 +30,7 @@ liblog4cpp5-dev libzmq3-dev
 ```
 Git GnuRadio
 ```
-git clone --recursive git://git.gnuradio.org/gnuradio.git
+git clone --recursive https://github.com/gnuradio/gnuradio
 ```
 Build Gnuradio
 ```
